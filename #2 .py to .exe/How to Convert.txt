@@ -1,0 +1,19 @@
+Two ways to convert .py to .exe file
+
+1) pyinstaller
+
+pip install pyinstaller
+
+pyinstaller filename.py
+
+or
+
+pyinstaller --onefile filename.py
+
+2)auto-py-to-exe
+
+
+auto-py-to-exe
+
+
+-> then a window will open there several options are available for convert into .exe
